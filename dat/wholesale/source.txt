@@ -1,0 +1,22 @@
+Wholesale customers Data Set
+Annual spending in monetary units of clients of a wholesale distributor
+Ravi Shekhar
+https://www.kaggle.com/binovi/wholesale-customers-data-set
+Retrieved 2020/04/07
+
+---
+
+The dataset refers to clients of a wholesale distributor. It includes the annual spending in monetary units (m.u.) on diverse product categories
+
+Source: UCI Wholesale customers Data Set (https://archive.ics.uci.edu/ml/datasets/wholesale+customers)
+
+---
+
+Channel - Horeca (Hotel/Restaurant/Cafe or Retail channel (Nominal)
+Regions - Lisnon, Oporto or Other (Nominal)
+Fresh - annual spending (m.u.) on fresh products (Continuous)
+Milk - annual spending (m.u.) on milk products (Continuous)
+Grocery - annual spending (m.u.)on grocery products (Continuous)
+Frozen - annual spending (m.u.)on frozen products (Continuous)
+Detergents_Paper - annual spending (m.u.) on detergents and paper products (Continuous)
+Delicassen - annual spending (m.u.)on and delicatessen products (Continuous)
